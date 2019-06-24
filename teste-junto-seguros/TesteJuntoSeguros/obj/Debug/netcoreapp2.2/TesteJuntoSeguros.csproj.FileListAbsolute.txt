@@ -1,0 +1,14 @@
+C:\Users\lubini\Documents\teste-junto-seguros\TesteJuntoSeguros\bin\Debug\netcoreapp2.2\TesteJuntoSeguros.deps.json
+C:\Users\lubini\Documents\teste-junto-seguros\TesteJuntoSeguros\bin\Debug\netcoreapp2.2\TesteJuntoSeguros.runtimeconfig.json
+C:\Users\lubini\Documents\teste-junto-seguros\TesteJuntoSeguros\bin\Debug\netcoreapp2.2\TesteJuntoSeguros.runtimeconfig.dev.json
+c:\Users\lubini\Documents\teste-junto-seguros\TesteJuntoSeguros\bin\Debug\netcoreapp2.2\TesteJuntoSeguros.dll
+c:\Users\lubini\Documents\teste-junto-seguros\TesteJuntoSeguros\bin\Debug\netcoreapp2.2\TesteJuntoSeguros.pdb
+c:\Users\lubini\Documents\teste-junto-seguros\TesteJuntoSeguros\obj\Debug\netcoreapp2.2\TesteJuntoSeguros.csprojAssemblyReference.cache
+c:\Users\lubini\Documents\teste-junto-seguros\TesteJuntoSeguros\obj\Debug\netcoreapp2.2\TesteJuntoSeguros.csproj.CoreCompileInputs.cache
+c:\Users\lubini\Documents\teste-junto-seguros\TesteJuntoSeguros\obj\Debug\netcoreapp2.2\TesteJuntoSeguros.RazorAssemblyInfo.cache
+c:\Users\lubini\Documents\teste-junto-seguros\TesteJuntoSeguros\obj\Debug\netcoreapp2.2\TesteJuntoSeguros.RazorAssemblyInfo.cs
+c:\Users\lubini\Documents\teste-junto-seguros\TesteJuntoSeguros\obj\Debug\netcoreapp2.2\TesteJuntoSeguros.AssemblyInfoInputs.cache
+c:\Users\lubini\Documents\teste-junto-seguros\TesteJuntoSeguros\obj\Debug\netcoreapp2.2\TesteJuntoSeguros.AssemblyInfo.cs
+c:\Users\lubini\Documents\teste-junto-seguros\TesteJuntoSeguros\obj\Debug\netcoreapp2.2\TesteJuntoSeguros.RazorTargetAssemblyInfo.cache
+c:\Users\lubini\Documents\teste-junto-seguros\TesteJuntoSeguros\obj\Debug\netcoreapp2.2\TesteJuntoSeguros.dll
+c:\Users\lubini\Documents\teste-junto-seguros\TesteJuntoSeguros\obj\Debug\netcoreapp2.2\TesteJuntoSeguros.pdb
